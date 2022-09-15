@@ -1,2 +1,26 @@
-# Microcontroladores-2022.2
-Repositório para o projeto do abajur de emoções da matéria de Microcontroladores.
+# Microcontroladores - Abajur de Emoções
+
+Integrantes
+- André Monteiro Sanches Garcia&emsp;–&emsp;19.01230-6
+- Arthur Castanheda Sarnadas&emsp;&nbsp;&emsp;–&emsp;19.00756-6
+- Giovanni Brandini B. Benuthe&emsp;&emsp;–&emsp;19.00043-0
+- Guilherme Bernardelli Zeigler&emsp;&emsp;–&emsp;19.02453-3
+
+## Projeto
+Nosso projeto consiste em um amigo virtual interativo que é muito emotivo.<br/>Suas emoções refletem na luz que seu abajur iluminará então não esqueça de sempre deixá-lo feliz !! 😄
+
+## Objetivos
+O objetivo do projeto é estabelecer a configuração de um sistema controlado por raspberry pi e programado em node.js
+
+## Ferramentas / Hardware
+Utilizamos um Raspberry Pi 3 Model B+ acoplado a uma tela touchscreen para Raspberry de 7 polegadas.
+As ferramentas de desenvolvimento foram o Node-Red e scripts de configuração do linux PI OS.
+
+## Metodologia
+O projeto foi inicialmente pensado e feito de maneira mais simples para Raspberry PI Pico e migrado para Raspberry PI 3.
+Apesar da programação utilizando Node Red ter sido feita do zero, a ideia do projeto manteve-se e os botões físicos que alteravam as emoções da "EmoBox" converteram-se em botões virtuais.
+
+## Resultados
+Até o momento desta edição o projeto é capaz de abrir o navegador em tela cheia e mostrar ao usuário uma interface, ainda não interativa, feita com Node Red com as opções de emoção a serem selecionadas.
+
+## Referências
