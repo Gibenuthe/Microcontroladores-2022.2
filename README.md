@@ -20,6 +20,10 @@ As ferramentas de desenvolvimento foram o Node-Red e scripts de configuração d
 O projeto foi inicialmente pensado e feito de maneira mais simples para Raspberry PI Pico e migrado para Raspberry PI 3.
 Apesar da programação utilizando Node Red ter sido feita do zero, a ideia do projeto manteve-se e os botões físicos que alteravam as emoções da "EmoBox" converteram-se em botões virtuais.
 
+## Diagrama de Blocos
+
+![Diagrama em branco](https://user-images.githubusercontent.com/79452579/194165596-9e2ce5d2-525a-4607-b50a-4fcba2e127af.png)
+
 ## Resultados
 Até o momento desta edição o projeto é capaz de abrir o navegador em tela cheia e mostrar ao usuário uma interface, ainda não interativa, feita com Node Red com as opções de emoção a serem selecionadas.
 
