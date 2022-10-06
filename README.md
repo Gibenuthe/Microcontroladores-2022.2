@@ -27,4 +27,7 @@ Apesar da programação utilizando Node Red ter sido feita do zero, a ideia do p
 ## Resultados
 Até o momento desta edição o projeto é capaz de abrir o navegador em tela cheia e mostrar ao usuário uma interface, ainda não interativa, feita com Node Red com as opções de emoção a serem selecionadas.
 
+## Vídeo (Youtube)
+Link para o vídeo explicativo: https://youtu.be/OH9bS7A-1p8
+
 ## Referências
